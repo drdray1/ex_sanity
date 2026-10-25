@@ -16,7 +16,7 @@ Add `ex_sanity` to your `mix.exs`. From GitHub:
 ```elixir
 def deps do
   [
-    {:ex_sanity, git: "https://github.com/drdray1/ex_sanity.git", tag: "v0.1.0"}
+    {:ex_sanity, git: "https://github.com/drdray1/ex_sanity.git", tag: "v0.1.1"}
   ]
 end
 ```
